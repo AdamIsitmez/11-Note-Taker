@@ -21,7 +21,8 @@
   ~~~
 
   ## Usage
-  
+
+  Use the app at [https://note-taker-00011-0cf806888b87.herokuapp.com/]
   Click on get started to open the note taking app.
 
   ### Creating a new note
