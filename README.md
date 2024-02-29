@@ -40,4 +40,4 @@
   This project is licensed under the MIT license.
  
   ## Questions
-  If you have any questions regarding the repo, open an issue or contact me directly at adam.isitmez@hotmail.com. You can find more of my work at [adzy404](https://github.com/adzy404).
+  If you have any questions regarding the repo, open an issue or contact me directly at adam.isitmez@hotmail.com. You can find more of my work at [AdamIsitmez](https://github.com/AdamIsitmez).
